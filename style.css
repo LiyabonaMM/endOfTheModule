@@ -1,0 +1,93 @@
+/* styles.css */
+
+/* Navbar Styles */
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Landing Section Styles */
+.landing {
+  background-image: url('landing-bg.jpg');
+  background-size: cover;
+  text-align: center;
+  padding: 100px;
+  color: #fff;
+}
+
+.shop-now-btn {
+  background-color: #ff5e3a;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Product Section Styles */
+.product {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.buy-btn {
+  background-color: #ff5e3a;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+}
+
+/* About Section Styles */
+.about-content {
+  text-align: center;
+  padding: 50px;
+}
+
+/* Cart Section Styles */
+#cart {
+  text-align: center;
+  padding: 50px;
+}
+
+.checkout-btn {
+  background-color: #ff5e3a;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Contact Us Section Styles */
+#contact {
+  text-align: center;
+  padding: 50px;
+}
+
+.submit-btn {
+  background-color: #ff5e3a;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
